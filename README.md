@@ -1,8 +1,12 @@
 # Weather App
 
-This is a simple weather app I created for a coding challenge using the [Aeris Weather API](https://www.aerisweather.com/support/docs/api/).
+This is a *very* simple weather app I created for a coding challenge using the [Aeris Weather API](https://www.aerisweather.com/support/docs/api/).
 
-It shows the 7-day forecast for New York, NY, with high/low temps, a short description of the weather, weather icons, and a button to convert from Fahrenheit to Celsius or vice versa.
+It shows the 7-day forecast for New York, NY, with:
+- High/low temperatures
+- A short description of the weather
+- Weather icons
+- A button to convert from Fahrenheit to Celsius, or vice versa
 
 ### Installation
 
