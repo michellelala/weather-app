@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import axios from "axios";
 import "./App.css";
 import key from "./id.js"
-// import secret from "./id.js/secret";
 
 
 class App extends Component {
