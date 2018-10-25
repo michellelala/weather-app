@@ -8,6 +8,8 @@ It shows the 7-day forecast for New York, NY, with:
 - Weather icons
 - A button to convert from Fahrenheit to Celsius, or vice versa
 
+Also features a responsive web design.
+
 <img src="./src/images/convert.gif" alt="gif of temperature conversion" />
 
 ### Installation
