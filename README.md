@@ -26,7 +26,8 @@ $ npm install
 ```
 3. You will need to create a (free) account on the Aeris website.
 4. In your `src` folder, create a new file `id.js`.
-5. In your `id.js` file, replace the values below with the new client ID and secret key you obtained, as strings.
+5. In your `id.js` file, copy and paste the following code. 
+6. Replace the values `YOUR_CLIENT_ID` and `YOUR_SECRET_KEY` with the new client ID and secret key you obtained, as strings.
 ```
 const key = {
   ID: YOUR_CLIENT_ID,
